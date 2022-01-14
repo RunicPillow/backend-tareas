@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVTI4TCMK5La/QbS0dQI0QEo/XWLmES/vTTvog6u4X22vvRXaztRW41f5rxwhRCQ+uOu2yu9KKrZG/2N6/Nx7Q==",
+  "dgSpecHash": "dplWpLQm8U1sx2ecAThZndvy/aUmf+d8GLmlyYESuD2lL9VdXyisyu2kCe8cVmN1fB7vBLcxBxiA6ENzOk+rEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
+  "projectFilePath": "D:\\Usuario\\Documentos\\GitHub\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

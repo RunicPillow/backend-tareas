@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
+      "projectUniqueName": "D:\\Usuario\\Documentos\\GitHub\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
       "projectName": "backend-tareas",
-      "projectPath": "C:\\Users\\david\\source\\repos\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
+      "projectPath": "D:\\Usuario\\Documentos\\GitHub\\backend-tareas\\backend-tareas\\backend-tareas\\backend-tareas.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\backend-tareas\\backend-tareas\\obj\\",
+      "outputPath": "D:\\Usuario\\Documentos\\GitHub\\backend-tareas\\backend-tareas\\backend-tareas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
